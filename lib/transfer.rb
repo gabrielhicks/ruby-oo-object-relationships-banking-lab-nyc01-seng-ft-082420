@@ -1,3 +1,5 @@
+# hey sam! you are a great partner!!!
+
 class Transfer
 # Transfer
     attr_accessor :sender, :receiver, :status, :amount

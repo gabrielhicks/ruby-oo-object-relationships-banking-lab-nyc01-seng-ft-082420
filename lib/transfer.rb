@@ -1,4 +1,5 @@
 # hey sam! you are a great partner!!!
+# gabriel! aww x) - you're so supportive and insightful! Thanks for everything!!! :') 
 
 class Transfer
 # Transfer
